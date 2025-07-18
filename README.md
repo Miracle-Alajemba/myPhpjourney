@@ -1,2 +1,2 @@
 # myPhpjourney
-this is repository where i documenting my php journey
+this is repository where i document my php journey
